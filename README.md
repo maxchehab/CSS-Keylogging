@@ -19,7 +19,7 @@ Chrome extension and Express server that exploits keylogging abilities of CSS.
 
 ### Haxking l33t passw0rds
 
-1. Open any website login page. [https://instagram.com](https://www.instagram.com/).
+1. Open a website that uses a controlled component framework such as React. [https://instagram.com](https://www.instagram.com/).
 2. Press the extension `C` on the top right of any webpage.
 3. Type your password.
 4. Your password should be captured by the express server.
