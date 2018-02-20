@@ -9,13 +9,13 @@ Chrome extension and Express server that exploits keylogging abilities of CSS.
 1. Download repository `git clone https://github.com/maxchehab/CSS-Keylogging`
 2. Visit `chrome://extensions` in your browser (or open up the Chrome menu by clicking the icon to the far right of the Omnibox: The menu's icon is three horizontal bars. and select Extensions under the More Tools menu to get to the same place).
 3. Ensure that the Developer mode checkbox in the top right-hand corner is checked.
-4. Click Load unpacked extension… to pop up a file-selection dialog.
+4. Click `Load unpacked extension…` to pop up a file-selection dialog.
 5. Select the `css-keylogger-extension` in the directory which you downloaded this repository.
 
 ### Setup Express server
 
-1. yarn
-2. yarn start
+1. `yarn`
+2. `yarn start`
 
 ### Haxking l33t passw0rds
 
