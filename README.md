@@ -37,4 +37,4 @@ input[type="password"][value$="a"] {
 }
 ```
 
-Using a simple [script](https://github.com/maxchehab/CSS-Keylogging/blob/master/build.go) one can create a (css file)[https://github.com/maxchehab/CSS-Keylogging/blob/master/css-keylogger-extension/keylogger.css] that will send a custom request for every ASCII character.
+Using a simple [script](https://github.com/maxchehab/CSS-Keylogging/blob/master/build.go) one can create a [css file](https://github.com/maxchehab/CSS-Keylogging/blob/master/css-keylogger-extension/keylogger.css) that will send a custom request for every ASCII character.
